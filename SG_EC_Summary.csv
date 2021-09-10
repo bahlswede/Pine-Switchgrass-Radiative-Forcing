@@ -1,0 +1,42 @@
+﻿Location,Stand Age,Year,Measurment,GPP,RE,NEE,Yield,C Removed,NECB,Precip,Temperature,N rate,Reference
+,Years,,Period,g C m -2,g C m -2,g C m -2,g Dry m -2,g C m -2,g C m -2,mm,ºC,kg ha-1,
+"VA, USA",3,2016 - 17,Year Round,-2098,1883,201,303,127,328,1041,14.9,0,This Study
+"VA, USA",4,2017 - 18,Year Round,-2352,2098,-74,706,297,223,972,13.2,0,This Study
+"VA, USA",5,2018 - 19,Year Round,-2058,1902,113,615,258,371,1637,14.3,0,This Study
+"VA, USA",6,2019-20,Year Round,,,-266,1209,508,242,1105,13.2,0,This Study
+"VA, USA",7,2020-21,Year Round,,,421,196,82,503,1626,14.7,0,This Study
+,,,,,,,,,,,,,
+"ON, CA",7,2012,Year Round,-1354,833,-380,1090,486,106,533,9.4,78,Eichelmann et al. (2016)
+"ON, CA",8,2013,Year Round,-1430,869,-430,790,371,-59,868,7.2,101,Eichelmann et al. (2016)
+,,,,,,,,,,,,,
+"PA, USA",1,2004 - 05,Year Round,-941,911,-31,0,0,-31,868,10,0,Skinner & Adler (2010)
+"PA, USA",2,2005 - 06,Year Round,-916,798,-118,94,38,-80,995,9.7,56,Skinner & Adler (2010)
+"PA, USA",3,2006 - 07,Year Round,-926,678,-248,386,154,-94,1071,9.9,56,Skinner & Adler (2010)
+"PA, USA",4,2007 - 08,Year Round,-915,726,-189,597,239,50,1059,9.8,56,Skinner & Adler (2010)
+,,,,,,,,,,,,,
+"OK, USA",2,2011,Growing Season,-1192,884,-308,400,160,-148,525,16.7,75,Wagle & Kakani (2014)
+"OK, USA",3,2012,Growing Season,-2015,1526,-490,1400,560,70,673,17.2,76,Wagle & Kakani (2014)
+,,,,,,,,,,,,,
+"IL, USA",2,2009,Year Round,,,-453,NA,200,-253,1302,10.6,0,Zeri et al. (2011)
+"IL, USA",3,2010,Year Round,,,-485,NA,350,-135,931,11.7,56,Zeri et al. (2011)
+,,,,,,,,,,,,,
+"Bolgna, IT",1,2012 - 13,Year Round,-1190.7,785.7,-402,700,280,-122,575,14.4,0,Virgilio et al (2018)
+"Bolgna, IT",2,2013 -14,Year Round,-1665.9,936.9,-726,1300,520,-206,802,13.9,50,Virgilio et al (2018)
+"Bolgna, IT",3,2014 -15,Year Round,-1755,974.7,-780,1050,420,-360,829,15,50,Virgilio et al (2018)
+"Bolgna, IT",4,2015 -16,Year Round,-1544.4,869.4,-675,1225,490,-185,679,14.4,50,Virgilio et al (2018)
+,,,,,,,,,,,,,
+"AGR, MI, USA",1,2010,Year Round,,,170.3,,0,170,936,10,0,Abraha et al (2018)
+"AGR, MI, USA",2,2011,Year Round,,,-217.1,,201.4,-16,975,9,56,Abraha et al (2018)
+"AGR, MI, USA",3,2012,Year Round,,,-176.6,,200.5,24,796,11.3,56,Abraha et al (2018)
+"AGR, MI, USA",4,2013,Year Round,,,-289.2,,452.8,164,1139,9.1,56,Abraha et al (2018)
+"AGR, MI, USA",5,2014,Year Round,,,-534.7,,441.2,-94,971,7.5,0,Abraha et al (2018)
+"AGR, MI, USA",6,2015,Year Round,,,-354.5,,429.6,75,1173,8.4,56,Abraha et al (2018)
+"AGR, MI, USA",7,2016,Year Round,,,-555,,345.4,-210,948,10.7,56,Abraha et al (2018)
+,,,,,,,,,,,,,
+"CRP, MI, USA",1,2010,Year Round,,,-82,,0,-82,936,10,0,Abraha et al (2018)
+"CRP, MI, USA",2,2011,Year Round,,,-235.1,,138.3,-97,975,9,56,Abraha et al (2018)
+"CRP, MI, USA",3,2012,Year Round,,,-237.4,,170.6,-67,796,11.3,56,Abraha et al (2018)
+"CRP, MI, USA",4,2013,Year Round,,,-381.5,,375.9,-6,1139,9.1,56,Abraha et al (2018)
+"CRP, MI, USA",5,2014,Year Round,,,-345.5,,243.6,-102,971,7.5,0,Abraha et al (2018)
+"CRP, MI, USA",6,2015,Year Round,,,-356.8,,342,-15,1173,8.4,56,Abraha et al (2018)
+"CRP, MI, USA",7,2016,Year Round,,,-442.3,,258.9,-183,948,10.7,56,Abraha et al (2018)
